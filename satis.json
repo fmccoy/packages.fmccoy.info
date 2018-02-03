@@ -1,0 +1,10 @@
+{
+  "name": "Packages",
+  "homepage": "https://packages.fmccoy.info",
+  "repositories": [
+    { "type": "vcs", "url": "git@github.com:boxgrater/recipes.git" },
+    { "type": "vcs", "url": "git@github.com:Culinaire/bistro" },
+    { "type": "vcs", "url": "git@github.com:Culinaire/bistro-recipes" },
+    { "type": "vcs", "url": "git@github.com:Culinaire/pantry-recipes" }
+  ]
+}
