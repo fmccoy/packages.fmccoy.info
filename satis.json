@@ -6,6 +6,7 @@
     { "type": "vcs", "url": "git@github.com:Culinaire/bistro" },
     { "type": "vcs", "url": "git@github.com:Culinaire/bistro-recipes" },
     { "type": "vcs", "url": "git@github.com:Culinaire/pantry-recipes" },
-    { "type": "vcs", "url": "git@bitbucket.org:fmccoy/butler-dashboard" }
+    { "type": "vcs", "url": "git@bitbucket.org:fmccoy/butler-dashboard" },
+    { "type": "vcs", "url": "git@github.com:fmccoy/gooey" }
   ]
 }
